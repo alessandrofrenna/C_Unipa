@@ -9,4 +9,4 @@ Il repository contiene:
 - Liste
 - File
 
-Tutti sono basati su ADT.
+Quasi tutti sono basati su ADT.
