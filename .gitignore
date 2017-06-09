@@ -1,18 +1,1 @@
-/Alberi/*.o
-/Coda/queue
-/Pila/*.o
-/Pila/adt_array_stack_resize/*.o
-/Pila/adt_array_stack_resize/adt_stack_array_resize
-/Pila/adt_stack/*.o
-/Pila/adt_stack/adt_stack
-/Pila/list_stack/stack
-
-/File/*.o
-/File/*.out
-/File/*.txt
-/Liste Concatenate/*.o
-/Liste Concatenate/*.out
-/Liste Concatenate/list
-/Liste Concatenate/mergelists
-/Liste Concatenate/merge
-/Alberi/Make
+/File
