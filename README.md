@@ -10,3 +10,4 @@ Il repository contiene:
 - File
 
 Quasi tutti sono basati su ADT.
+Da aggiungere ancora qualcosa.
